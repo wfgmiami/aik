@@ -4,7 +4,7 @@
 		function __construct() {
 			$this->Logging = new TLogging();
 		
-			if($this->database = mysqli_connect("localhost", "root","cpvp_sql","states")) {
+			if($this->database = mysqli_connect("localhost", "root","cpvp_sql","users")) {
 				$this->Logging->log(__FILE__."||". __CLASS__."||".__LINE__."||Connected to database");
 				//$sqlQuery = "select * from users.users";
 				//$result = $this->singleRowQuery($sqlQuery);
