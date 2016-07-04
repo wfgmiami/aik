@@ -1,0 +1,222 @@
+2016 06 23 02:06:39|ifta.
+2016 06 23 02:06:39|Starting script..
+2016 06 23 02:06:41|ifta.
+2016 06 23 02:06:41|Starting script..
+2016 06 23 02:06:46|ifta.
+2016 06 23 02:06:46|Starting script..
+2016 06 23 02:06:46|ifta.
+2016 06 23 02:06:46|Starting script..
+2016 06 23 02:06:46|ifta.
+2016 06 23 02:06:46|Starting script..
+2016 06 23 02:06:46|ifta.
+2016 06 23 02:06:46|Starting script..
+2016 06 23 02:06:16|ifta.
+2016 06 23 02:06:16|Starting script..
+2016 06 23 02:06:19|ifta.
+2016 06 23 02:06:19|Starting script..
+2016 06 23 02:06:41|ifta.
+2016 06 23 02:06:41|Starting script..
+2016 06 23 02:06:41|Starting script..
+2016 06 23 02:06:44|ifta.
+2016 06 23 02:06:44|Starting script..
+2016 06 23 02:06:44|Starting script..
+2016 06 23 02:06:53|ifta.
+2016 06 23 02:06:53|Starting script..
+2016 06 23 02:06:53|Starting script..
+2016 06 23 02:06:57|ifta.
+2016 06 23 02:06:57|Starting script..
+2016 06 23 02:06:57|Starting script..
+2016 06 23 02:06:05|ifta.
+2016 06 23 02:06:05|Starting script..
+2016 06 23 02:06:05|Starting script..
+2016 06 23 02:06:00|ifta.
+2016 06 23 02:06:00|Starting script..
+2016 06 23 02:06:00|Starting script..
+2016 06 23 02:06:00|ifta.
+2016 06 23 02:06:00|Starting script..
+2016 06 23 02:06:00|Starting script..
+2016 06 23 02:06:05|ifta.
+2016 06 23 02:06:05|Starting script..
+2016 06 23 02:06:06|Starting script..
+2016 06 23 02:06:06|ifta.
+2016 06 23 02:06:06|Starting script..
+2016 06 23 02:06:07|Starting script..
+2016 06 23 02:06:07|ifta.
+2016 06 23 02:06:07|Starting script..
+2016 06 23 02:06:07|Starting script..
+2016 06 23 02:06:26|ifta.
+2016 06 23 02:06:26|Starting script..
+2016 06 23 02:06:26|Starting script..
+2016 06 23 02:06:29|ifta.
+2016 06 23 02:06:29|Starting script..
+2016 06 23 02:06:29|Starting script..
+2016 06 23 02:06:30|ifta.
+2016 06 23 02:06:30|Starting script..
+2016 06 23 02:06:30|Starting script..
+2016 06 23 02:06:30|ifta.
+2016 06 23 02:06:30|Starting script..
+2016 06 23 02:06:30|Starting script..
+2016 06 23 02:06:30|ifta.
+2016 06 23 02:06:30|Starting script..
+2016 06 23 02:06:31|Starting script..
+2016 06 23 02:06:16|ifta.
+2016 06 23 02:06:16|Starting script..
+2016 06 23 02:06:16|Starting script..
+2016 06 23 02:06:57|ifta.
+2016 06 23 02:06:57|Starting script..
+2016 06 23 02:06:57|Starting script..
+2016 06 23 02:06:59|ifta.
+2016 06 23 02:06:59|Starting script..
+2016 06 23 02:06:59|Starting script..
+2016 06 23 02:06:59|ifta.
+2016 06 23 02:06:59|Starting script..
+2016 06 23 02:06:00|Starting script..
+2016 06 23 02:06:01|ifta.
+2016 06 23 02:06:01|Starting script..
+2016 06 23 02:06:01|Starting script..
+2016 06 23 02:06:02|ifta.
+2016 06 23 02:06:02|Starting script..
+2016 06 23 02:06:02|Starting script..
+2016 06 23 02:06:16|ifta.
+2016 06 23 02:06:16|Starting script..
+2016 06 23 02:06:16|Starting script..
+2016 06 23 02:06:20|ifta.
+2016 06 23 02:06:20|Starting script..
+2016 06 23 02:06:20|Starting script..
+2016 06 23 02:06:21|ifta.
+2016 06 23 02:06:21|Starting script..
+2016 06 23 02:06:21|Starting script..
+2016 06 23 02:06:22|ifta.
+2016 06 23 02:06:22|Starting script..
+2016 06 23 02:06:22|Starting script..
+2016 06 23 02:06:40|ifta.
+2016 06 23 02:06:40|Starting script..
+2016 06 23 02:06:40|Starting script..
+2016 06 23 02:06:43|ifta.
+2016 06 23 02:06:43|Starting script..
+2016 06 23 02:06:43|Starting script..
+2016 06 23 02:06:44|ifta.
+2016 06 23 02:06:44|Starting script..
+2016 06 23 02:06:44|Starting script..
+2016 06 23 02:06:45|ifta.
+2016 06 23 02:06:45|Starting script..
+2016 06 23 02:06:45|Starting script..
+2016 06 23 07:06:27|ifta.
+2016 06 23 07:06:27|Starting script..
+2016 06 23 01:06:19|ifta.
+2016 06 23 01:06:19|Starting script..
+2016 06 23 03:06:31|ifta.
+2016 06 23 03:06:31|Starting script..
+2016 06 23 03:06:31|ifta.
+2016 06 23 03:06:31|Starting script..
+2016 06 23 03:06:31|Starting script..
+2016 06 23 04:06:43|ifta.
+2016 06 23 04:06:43|Starting script..
+2016 06 23 04:06:43|Starting script..
+2016 06 23 04:06:43|ifta.
+2016 06 23 04:06:43|Starting script..
+2016 06 23 04:06:44|Starting script..
+2016 06 23 04:06:44|ifta.
+2016 06 23 04:06:44|Starting script..
+2016 06 23 04:06:44|Starting script..
+2016 06 23 04:06:28|ifta.
+2016 06 23 04:06:28|Starting script..
+2016 06 23 04:06:28|Starting script..
+2016 06 23 04:06:31|ifta.
+2016 06 23 04:06:31|Starting script..
+2016 06 23 04:06:31|Starting script..
+2016 06 23 04:06:32|ifta.
+2016 06 23 04:06:32|Starting script..
+2016 06 23 04:06:32|Starting script..
+2016 06 23 04:06:52|ifta.
+2016 06 23 04:06:52|Starting script..
+2016 06 23 04:06:52|Starting script..
+2016 06 23 04:06:52|Starting script..
+2016 06 23 04:06:42|ifta.
+2016 06 23 04:06:42|Starting script..
+2016 06 23 04:06:42|Starting script..
+2016 06 23 04:06:42|Starting script..
+2016 06 23 04:06:45|ifta.
+2016 06 23 04:06:45|Starting script..
+2016 06 23 04:06:45|Starting script..
+2016 06 23 04:06:45|Starting script..
+2016 06 23 04:06:41|ifta.
+2016 06 23 04:06:41|Starting script..
+2016 06 23 04:06:41|Starting script..
+2016 06 23 04:06:41|Starting script..
+2016 06 23 04:06:37|ifta.
+2016 06 23 04:06:37|Starting script..
+2016 06 23 04:06:37|Starting script..
+2016 06 23 04:06:37|Starting script..
+2016 06 23 04:06:13|ifta.
+2016 06 23 04:06:13|Starting script..
+2016 06 23 04:06:13|Starting script..
+2016 06 23 04:06:13|Starting script..
+2016 06 23 05:06:59|ifta.
+2016 06 23 05:06:59|Starting script..
+2016 06 23 05:06:59|Starting script..
+2016 06 23 05:06:59|Starting script..
+2016 06 23 06:06:34|ifta.
+2016 06 23 06:06:34|Starting script..
+2016 06 23 06:06:34|Starting script..
+2016 06 23 06:06:34|Starting script..
+2016 06 23 06:06:43|ifta.
+2016 06 23 06:06:43|Starting script..
+2016 06 23 06:06:43|Starting script..
+2016 06 23 06:06:43|Starting script..
+2016 06 23 06:06:22|ifta.
+2016 06 23 06:06:22|Starting script..
+2016 06 23 06:06:22|Starting script..
+2016 06 23 06:06:22|Starting script..
+2016 06 23 06:06:30|ifta.
+2016 06 23 06:06:30|Starting script..
+2016 06 23 06:06:30|Starting script..
+2016 06 23 06:06:30|Starting script..
+2016 06 23 06:06:27|ifta.
+2016 06 23 06:06:27|Starting script..
+2016 06 23 06:06:27|Starting script..
+2016 06 23 06:06:27|Starting script..
+2016 06 23 06:06:02|ifta.
+2016 06 23 06:06:02|Starting script..
+2016 06 23 06:06:03|Starting script..
+2016 06 23 06:06:03|Starting script..
+2016 06 23 06:06:04|ifta.
+2016 06 23 06:06:04|Starting script..
+2016 06 23 06:06:04|Starting script..
+2016 06 23 06:06:04|Starting script..
+2016 06 23 06:06:33|ifta.
+2016 06 23 06:06:33|Starting script..
+2016 06 23 06:06:33|Starting script..
+2016 06 23 06:06:33|Starting script..
+2016 06 23 07:06:04|ifta.
+2016 06 23 07:06:04|Starting script..
+2016 06 23 07:06:15|ifta.
+2016 06 23 07:06:15|Starting script..
+2016 06 23 07:06:15|Starting script..
+2016 06 23 07:06:15|Starting script..
+2016 06 23 07:06:55|ifta.
+2016 06 23 07:06:55|Starting script..
+2016 06 23 07:06:55|Starting script..
+2016 06 23 07:06:55|Starting script..
+2016 06 23 07:06:44|ifta.
+2016 06 23 07:06:44|Starting script..
+2016 06 23 07:06:44|Starting script..
+2016 06 23 07:06:44|Starting script..
+2016 06 23 07:06:50|ifta.
+2016 06 23 07:06:50|Starting script..
+2016 06 23 07:06:50|Starting script..
+2016 06 23 07:06:51|Starting script..
+2016 06 23 07:06:07|ifta.
+2016 06 23 07:06:07|Starting script..
+2016 06 23 07:06:08|Starting script..
+2016 06 23 07:06:08|Starting script..
+2016 06 23 07:06:18|ifta.
+2016 06 23 07:06:18|Starting script..
+2016 06 23 07:06:18|Starting script..
+2016 06 23 07:06:18|Starting script..
+2016 06 23 07:06:40|ifta.
+2016 06 23 07:06:40|Starting script..
+2016 06 23 07:06:40|Starting script..
+2016 06 23 07:06:40|Starting script..
+2016 06 23 08:06:16|ifta.
+2016 06 23 08:06:16|Starting script..

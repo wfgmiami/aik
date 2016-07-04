@@ -1,0 +1,583 @@
+2016 07 04 02:07:19|testing.
+2016 07 04 02:07:19|homepage.
+2016 07 04 02:07:19|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:00|testing.
+2016 07 04 02:07:00|homepage.
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:11|testing.
+2016 07 04 02:07:11|homepage.
+2016 07 04 02:07:11|Starting script..
+2016 07 04 02:07:11|Starting script..
+2016 07 04 02:07:11|Starting script..
+2016 07 04 02:07:11|Starting script..
+2016 07 04 02:07:27|testing.
+2016 07 04 02:07:27|homepage.
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:53|homepage.
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:54|about.
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:58|login.
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:01|contact.
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:04|login.
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|about.
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:05|Starting script..
+2016 07 04 02:07:05|Starting script..
+2016 07 04 02:07:05|Starting script..
+2016 07 04 02:07:05|Starting script..
+2016 07 04 02:07:05|Starting script..
+2016 07 04 02:07:05|Starting script..
+2016 07 04 02:07:59|about.
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:19|homepage.
+2016 07 04 02:07:19|Starting script..
+2016 07 04 02:07:19|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:51|homepage.
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|about.
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:53|Starting script..
+2016 07 04 02:07:36|about.
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:36|Starting script..
+2016 07 04 02:07:17|about.
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:23|about.
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:24|login.
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:25|contact.
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:27|about.
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:28|homepage.
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:29|about.
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:29|Starting script..
+2016 07 04 02:07:30|login.
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:30|Starting script..
+2016 07 04 02:07:31|contact.
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:49|contact.
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:58|homepage.
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:59|about.
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:01|login.
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:02|Starting script..
+2016 07 04 02:07:02|Starting script..
+2016 07 04 02:07:02|Starting script..
+2016 07 04 02:07:04|contact.
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:17|contact.
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:24|homepage.
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:09|homepage.
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:28|homepage.
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:28|Starting script..
+2016 07 04 02:07:13|homepage.
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:13|Starting script..
+2016 07 04 02:07:16|contact.
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:26|contact.
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:26|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:27|Starting script..
+2016 07 04 02:07:58|contact.
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:16|contact.
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:18|homepage.
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:37|homepage.
+2016 07 04 02:07:37|Starting script..
+2016 07 04 02:07:44|homepage.
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:09|homepage.
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:09|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:10|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:50|homepage.
+2016 07 04 02:07:50|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:58|homepage.
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:01|Starting script..
+2016 07 04 02:07:03|Starting script..
+2016 07 04 02:07:04|Starting script..
+2016 07 04 02:07:14|about.
+2016 07 04 02:07:14|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:16|Starting script..
+2016 07 04 02:07:20|contact.
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:20|Starting script..
+2016 07 04 02:07:31|about.
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:31|Starting script..
+2016 07 04 02:07:32|Starting script..
+2016 07 04 02:07:32|Starting script..
+2016 07 04 02:07:32|Starting script..
+2016 07 04 02:07:32|Starting script..
+2016 07 04 02:07:33|login.
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:33|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|contact.
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:34|Starting script..
+2016 07 04 02:07:44|homepage.
+2016 07 04 02:07:44|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:45|Starting script..
+2016 07 04 02:07:15|homepage.
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:15|Starting script..
+2016 07 04 02:07:17|/var/www/html/aik/classes/class.Database.php||TDatabase||8||Connected to database.
+2016 07 04 02:07:18|apply.
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:19|Starting script..
+2016 07 04 02:07:49|homepage.
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:49|Starting script..
+2016 07 04 02:07:50|Starting script..
+2016 07 04 02:07:50|Starting script..
+2016 07 04 02:07:50|Starting script..
+2016 07 04 02:07:50|Starting script..
+2016 07 04 02:07:51|/var/www/html/aik/classes/class.Database.php||TDatabase||8||Connected to database.
+2016 07 04 02:07:51|apply.
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:51|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:52|Starting script..
+2016 07 04 02:07:54|homepage.
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:54|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:55|Starting script..
+2016 07 04 02:07:57|/var/www/html/aik/classes/class.Database.php||TDatabase||8||Connected to database.
+2016 07 04 02:07:57|apply.
+2016 07 04 02:07:57|Starting script..
+2016 07 04 02:07:57|Starting script..
+2016 07 04 02:07:57|Starting script..
+2016 07 04 02:07:57|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:58|Starting script..
+2016 07 04 02:07:59|homepage.
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:59|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:00|Starting script..
+2016 07 04 02:07:17|/var/www/html/aik/classes/class.Database.php||TDatabase||8||Connected to database.
+2016 07 04 02:07:17|apply.
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:17|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:18|Starting script..
+2016 07 04 02:07:23|homepage.
+2016 07 04 02:07:23|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:24|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:25|Starting script..
+2016 07 04 02:07:25|Starting script..
